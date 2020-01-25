@@ -18,6 +18,8 @@
   "homepage": "https://github.com/smroberts97/burger#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "handlebars": "^4.7.2"
+    "handlebars": "^4.7.2",
+    "mysql": "^2.18.1",
+    "node": "^13.6.0"
   }
 }
